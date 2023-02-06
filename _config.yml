@@ -29,7 +29,7 @@ twitter_username: xlark
 github_username:  xlark
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
